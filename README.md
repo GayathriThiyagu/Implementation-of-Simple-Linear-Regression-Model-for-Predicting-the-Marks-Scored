@@ -75,24 +75,31 @@ print("RMSE= ",rmse)
 ## Output:
 
 Dataset
+
 ![Screenshot 2024-09-14 154819](https://github.com/user-attachments/assets/77cb02a6-0d21-4c16-b836-42713cf9078d)
 
 Head and Tail
+
 ![Screenshot 2024-09-14 154846](https://github.com/user-attachments/assets/a9f319a1-c104-4c7f-aead-232905744783)
 
 X and Y
+
 ![Screenshot 2024-09-14 154908](https://github.com/user-attachments/assets/53094fb8-61b9-4617-bfd9-2bef5e6b8de6)
 
 Training data
+
 ![Screenshot 2024-09-14 154930](https://github.com/user-attachments/assets/608786a8-45c5-4bf4-b022-9a34d9bde8f1)
 
 Plot for training set
+
 ![Screenshot 2024-09-14 154950](https://github.com/user-attachments/assets/5c5ae456-cdd0-4536-baec-20b0008bbfa6)
 
 Plot for test set
+
 ![Screenshot 2024-09-14 155012](https://github.com/user-attachments/assets/af3f6b1b-7bfd-4f6d-b6d3-f09a9e5528c8)
 
 MSE, MAE, RMSE values
+
 ![Screenshot 2024-09-14 155028](https://github.com/user-attachments/assets/807200e9-440c-4453-af3f-285d292451b9)
 
 
