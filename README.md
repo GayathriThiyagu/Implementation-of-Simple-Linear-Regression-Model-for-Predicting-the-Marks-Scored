@@ -76,17 +76,16 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-Dataset
-
-![Screenshot 2024-09-14 154819](https://github.com/user-attachments/assets/77cb02a6-0d21-4c16-b836-42713cf9078d)
-
 Head and Tail
 
 ![Screenshot 2024-09-14 154846](https://github.com/user-attachments/assets/a9f319a1-c104-4c7f-aead-232905744783)
 
 X and Y
 
-![Screenshot 2024-09-14 154908](https://github.com/user-attachments/assets/53094fb8-61b9-4617-bfd9-2bef5e6b8de6)
+![Screenshot 2024-10-19 173916](https://github.com/user-attachments/assets/0b027f04-0a68-4934-92ab-a00e141f204a)
+
+![Screenshot 2024-10-19 173929](https://github.com/user-attachments/assets/eb01b2e1-f76d-49f7-80e4-2c3462f4c11a)
+
 
 Training data
 
